@@ -1,0 +1,71 @@
+Strabo, Geography
+
+https://www.e-rara.ch/zut/doi/10.3931/e-rara-34096
+
+[Brackets indicate reference to original source], p. numbers indicate Loeb Classical Library edition.
+
+
+
+Please add a summary (and any salient quotes) from Casaubon’s 1587 commentary on this text.
+
+
+
+
+
+[Book 1, C 7] p.22-3
+
+[10.]“for Eratosthenes is wrong in his contention that the aim of every poet is to entertain, not to instruct; indeed the wisest of the writers on poetry say, on the contrary, that poetry is a kind of elementary philosophy.1”
+
+
+
+[Book 1, C 16] p.54-5
+
+“[3.] As I was saying, Eratosthenes contends that the aim of every poet is to entertain, not to instruct. The ancients assert, on the contrary, that poetry is a kind of elementary philosophy, which, taking us in our very boyhood, introduces us to the art of life and instructs us, with pleasure to ourselves, in character, emotions, and actions. And our School3 goes still further and contends that the wise man alone is a poet. That is the reason why in Greece the various states educate the young, at the very beginning of their education, by means of poetry; not for the mere sake of entertainment, of course, but for the sake of moral discipline. Why, even the musicians, when they give instruction in singing, in…”
+
+
+
+[Book 1, C 16] p.56-7
+
+“…lyre-playing, or in flute-playing, lay claim to this virtue, for they maintain that these studies tend to discipline and correct the character. You may hear this contention made not merely by the Pythagoreans, but Aristoxenus also declares the same thing. And Homer, too, has spoken of the bards as disciplinarians in morality, as when he says of the guardian of Clytaemnestra: “Whom the son of Atreus as he went to Troy strictly charged to keep watch over his wife”; and he adds that Aegisthus was unable to prevail over Clytaemnestra until “he carried the bard to a lonely isle and left him there—while as for her, he led her to his house, a willing lady with a willing lover.”
+
+
+
+
+
+[Book 1, C 18] p.62-3
+
+“6. So, then, to deny the art of rhetoric to Homer is to disregard my position entirely. For what is so much a part of rhetoric as style1? And what is so much a part of poetry? And who has surpassed Homer in style2? “Assuredly,” you answer, “but the style of poetry is different from that of rhetoric.” In species, yes; just as in poetry itself the style of tragedy differs from that of comedy, and in prose the style of history differs from that of forensic speech. Well then, would you assert that discourse is not a generic term, either, whose…”
+
+
+
+[Book 1, C 18] p.64-5
+
+“…species are metrical discourse and prose discourse? Or, rather, is discourse, in its broadest sense, generic, while rhetorical discourse is not generic, and style excellence of discourse are not?—But prose and discourse—I mean artistic prose—is, I may say, an imitation of poetic discourse; for poetry, as an art, first came upon the scene and was first to win approval. Then came Cadmus, Pherecydes, Hecataeus, and their followers, with prose writings in which they imitated the poetic art, abandoning the use of metre but in other respects preserving the qualities of poetry. Then subsequent writers took away, each in his turn, something of these qualities, and brought prose down to its present form, as from a sublime height. In the same way one might say that comedy took its structure from tragedy, but that it also has been degraded—from the sublime height of tragedy to its present “proselike” style, as it is called. And further, the fact that the ancients used the verb “sing” instead of the verb “tell”1 bears witness to this very thing, namely, that poetry was the source and origin of style, I mean ornate, or rhetorical, style. For when poetry was recited, it employed the assistance of song; this combination formed melodic discourse, or “ode”; and from “ode” they began to use the terms rhapsody, tragedy, and comedy. Therefore, since “tell” 1 was first used in reference to poetic “style”2 and since among the ancients this poetic style was accompanied by song, the term “sing” was to them equivalent to the term “tell”; and then after they had misused the former of these two terms by applying it to prose…”
+
+
+
+[Book I, C 18] p.66-7
+
+“…discourse, the misuse passed over to the latter term also. And, furthermore, the very fact that non-metrical discourse was termed “pedestrian” indicates its descent from a height, or from a chariot, to the ground.”
+
+
+
+[Book X,] p.92-3
+
+-in discussion of music used in sacred rites
+
+
+
+“Now this is common both to the Greeks and to the barbarians, to perform their sacred rites in connection with the relaxation of a festival, these rites being performed sometimes with religious frenzy, sometimes without it; sometimes with music, sometimes not; and sometimes in secret, sometimes openly. And it is in accordance with the dictates of nature that this should be so, for, in the first place, the relaxation draws the mind away from human occupations and turns the real mind towards that which is divine; and, secondly, the religious frenzy seems to afford a kind of divine inspiration and to be very like that of the soothsayer; and, thirdly, the secrecy with which the sacred rites are concealed induces reverence for the divine, since it imitates the nature of the divine, which is to avoid being perceived by our human senses; and, fourthly, music, which includes dancing as well as rhythm and melody, at the same time, by the delight it affords and by its artistic beauty, brings us in touch with the divine, and this for the following reason; for although it has been well said that human beings then act most like the gods when they are doing good to others, yet one might better say, when they are happy; and such happiness consists of rejoicing, celebrating festivals, pursuing philosophy, and engaging in music; for, if music is perverted when musicians turn their art to sensual delights…”
+
+
+
+[Book X, C 468] p.94-95
+
+
+
+“…at symposiums and in orchestric and scenic performances and the like, we should not lay the blame upon music itself, but should rather examine the nature of our system of education, since this is based on music.
+
+10. And on this account Plato, and even before his time the Pythagoreians, called philosophy music;1 and they say that the universe is constituted in accordance with harmony,2 assuming that every form of music is the work of the gods. And in this sense, also, the Muses are goddesses, and Apollo is leader of the Muses, and poetry as a whole is laudatory of the gods. And by the same course of reasoning they also attribute to music the upbuilding of morals, believing that everything which tends to correct the mind is close to the gods.
+
+Now most of the Greeks assigned to Dionysus, Apollo, Hecate, the Muses, and above all to Demeter, everything of an orgiastic or Bacchic or choral nature, as well as the mystic element in initiations; and they give the name “Iacchus” not only to Dionysus but also to the leader-in-chief of the mysteries, who is the genius of Demeter. And branch-bearing, choral dancing, and initiations are common elements in the worship of these gods. As for the Muses and Apollo, the Muses preside over the choruses, whereas Apollo presides both over these and the rites of divination. But all educated men, and especially the musicians, are ministers of the Muses; and both these and those who have to do with divination are ministers of Apollo; …”
