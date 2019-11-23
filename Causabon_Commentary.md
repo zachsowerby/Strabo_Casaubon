@@ -54,7 +54,7 @@
 - Image: [link](images/1_2_3_Comment_5.jpg)
 - Manuscript Citation: [Volume I, page 79](https://www.e-rara.ch/zut/content/pageview/10527243), note No. 5
 - Lemma: τόν τε Αἴγισθον οὐ πρότερον αὐτῆς περιγενέσθαι πρὶν ἢ
-- Text: Athenei I.c.11.p.14. verba quibus ista expressit, sunt haec: διὸ Αἴγισθος οὐ πρότερον διέφθειρε τὴν γυναῖκα πρὶν τὸν ἀοιδὸν ἀποκτεῖναι ἐν νήσῳ ἐρήμῃ. Quod ait Athenaeus occisum ab Aegistho istum cantorem, id etsi Homerus diserte non dicit: tamen ex eius verbis facile intelligitur. Idem.
+- Text: Athenaei I.c.11.p.14. verba quibus ista expressit, sunt haec: διὸ Αἴγισθος οὐ πρότερον διέφθειρε τὴν γυναῖκα πρὶν τὸν ἀοιδὸν ἀποκτεῖναι ἐν νήσῳ ἐρήμῃ. Quod ait Athenaeus occisum ab Aegistho istum cantorem, id etsi Homerus diserte non dicit: tamen ex eius verbis facile intelligitur. Idem.
 - Translation:
 - Summary: Causabon cites a passage in the Deipnosophistae where Athenaeus says the same thing Strabo does here. (That the bard which Agamemnon had left as Clytaemnestra's guardian was of such high moral character that Aegisthus had to murder him to get at Clytaemnestra)
 
