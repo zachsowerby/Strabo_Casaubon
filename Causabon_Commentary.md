@@ -19,7 +19,7 @@
 # 2. Commentary on 1.2.3
 
 ## Comment 1
-- Image: ![link] (images/1_2_3_Comment_1.jpg)
+- Image: [link] (images/1_2_3_Comment_1.jpg)
 - Manuscript Citation: [79] 29 (https://www.e-rara.ch/zut/content/pageview/10527243), note No. 1
 - Lemma: οἱ δ᾽ ἡμέτεροι καὶ μόνον ποιητὴν ἔφασαν εἶναι τὸν σοφόν
 - Text: Non potuit clarius profiteri se esse Stoïcum. An non enim Stoïci fuerunt, qui dicerent, Solum sapientem bonum, pium, doctum, regem etiam, omnium denique rerum solum esse dominum? Itaque solus sapiens secundum Stoïcos erit poëta, solus orator. Laertius: Ομοίως δὲ ἀρχικούς δικαστικούς τε καὶ ῥητορικοὺς μόνους εἶναι· τῶν δὲ φαυλῶν οὐδένα. Notum est illud Sophili comici elegans dicterium, Στωϊκὸν δόγμα ἔστιν, ὅτι τε πάντα εὖ ποιήσει ὁ σοφὸς· καὶ φακῆν φρονίμως ἀρτύσει. Vide Athenaeum lib.IV.C.15.p.158. et Ciceronem, maxime sub finem lib.III.C.22. De finibus. In vett. quibusdam cod. legiturm, οἱ δὲ νεώτεροι prorsus male. Sic enim alibi de Zenone, ὁ δὲ ἡμέτερος. Idem.
