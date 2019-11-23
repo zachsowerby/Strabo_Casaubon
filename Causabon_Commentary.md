@@ -1,10 +1,10 @@
-% Causabon, Commentary on Strabo's Γεωγραφικά
+# Causabon's Commentary on Strabo's Γεωγραφικά
 
 
 
-# 1. Commentary on 1.1.10
+## 1. Commentary on 1.1.10
 
-## Comment 1
+### Comment 1
 - Image: [link](images/1_1_10_Comment_1.jpg)
 - Manuscript Citation: [63] 13 (https://www.e-rara.ch/zut/content/pageview/10527227), note No. 5
 - Lemma: οὐ διδασκαλίας χάριν
@@ -16,9 +16,9 @@
 
 
 
-# 2. Commentary on 1.2.3
+## 2. Commentary on 1.2.3
 
-## Comment 1
+### Comment 1
 - Image: [link](images/1_2_3_Comment_1.jpg)
 - Manuscript Citation: [79] 29 (https://www.e-rara.ch/zut/content/pageview/10527243), note No. 1
 - Lemma: οἱ δ᾽ ἡμέτεροι καὶ μόνον ποιητὴν ἔφασαν εἶναι τὸν σοφόν
@@ -26,7 +26,7 @@
 - Translation:
 - Summary: A discussion of Stoicism and who counts as Stoic. The quoted text is from Diogenes Laertius, Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων 7.1, and from Athenaeus, Δειπνοσοφισταί 4.47. He also cites other passages from Athenaeus and Cicero for further reading.
 
-## Comment 2
+### Comment 2
 - Image: [link](images/1_2_3_Comment_2.jpg)
 - Manuscript Citation: [79] 29 (https://www.e-rara.ch/zut/content/pageview/10527243), note No. 2
 - Lemma: ὅπου γε καὶ οἱ μουσικοὶ
@@ -34,7 +34,7 @@
 - Translation:
 - Summary: Directs the reader to Athenaeus for further reading on music.
 
-## Comment 3
+### Comment 3
 - Image: [link](images/1_2_3_Comment_3.jpg)
 - Manuscript Citation: [79] 29 (https://www.e-rara.ch/zut/content/pageview/10527243), note No. 3
 - Lemma: Αὐλίζειν
@@ -42,7 +42,7 @@
 - Translation:
 - Summary: Notes on comparative word choice in Causabon's manuscript sources.
 
-## Comment 4
+### Comment 4
 - Image: [link](images/1_2_3_Comment_4.jpg)
 - Manuscript Citation: [79] 29 (https://www.e-rara.ch/zut/content/pageview/10527243), note No. 4
 - Lemma: καὶ Ομηρος δὲ τοὺς ἀοιδοὺς σωφρονιστὰς εἴρηκε
@@ -50,7 +50,7 @@
 - Translation:
 - Summary: Cites Athenaeus (1.24), who also says that the bards of old were of the highest moral quality. He says that when Athenaeus wrote the passage in question, he had this piece of Strabo in mind.
 
-## Comment 5
+### Comment 5
 - Image: [link](images/1_2_3_Comment_5.jpg)
 - Manuscript Citation: [79] 29 (https://www.e-rara.ch/zut/content/pageview/10527243), note No. 5
 - Lemma: τόν τε Αἴγισθον οὐ πρότερον αὐτῆς περιγενέσθαι πρὶν ἢ
@@ -58,7 +58,7 @@
 - Translation:
 - Summary: Causabon cites a passage in the Deipnosophistae where Athenaeus says the same thing Strabo does here. (That the bard which Agamemnon had left as Clytaemnestra's guardian was of such high moral character that Aegisthus had to murder him to get at Clytaemnestra)
 
-## Comment 6
+### Comment 6
 - Image: [link](images/1_2_3_Comment_6.jpg)
 - Manuscript Citation: [79] 29 (https://www.e-rara.ch/zut/content/pageview/10527243), note No. 6
 - Lemma: κάλλιπε τὴν δ᾽ ἐθέλουσαν
@@ -70,9 +70,9 @@
 
 
 
-# 3. Commentary on 1.2.6
+## 3. Commentary on 1.2.6
 
-## Comment 1
+### Comment 1
 - Image: [link](images/1_2_6_Comment_1.jpg)
 - Manuscript Citation: 84 [34] (https://www.e-rara.ch/zut/content/pageview/10527248), note No. 1
 - Lemma: τῷ γε ἰδίως
@@ -80,7 +80,7 @@
 - Translation:
 - Summary: Causabon says he thinks there has been scribal corruption in this phrase and supplies what he believes should be the proper reading.
 
-## Comment 2
+### Comment 2
 - Image: [link](images/1_2_6_Comment_2.jpg)
 - Manuscript Citation: 84 [34] (https://www.e-rara.ch/zut/content/pageview/10527248), note No. 2
 - Lemma: Αρα γὰρ οὐδ᾽ ὁ λόγος
@@ -88,7 +88,7 @@
 - Translation:
 - Summary: Causabon is commenting on the word use of λόγος, where he thinks Strabo/Eratosthenes should have used the word φράσις.
 
-## Comment 3
+### Comment 3
 - Image: [link](images/1_2_6_Comment_3.jpg)
 - Manuscript Citation: 84 [34] (https://www.e-rara.ch/zut/content/pageview/10527248), note No. 3
 - Lemma: ὁ πεζὸς λόγος ὅγε κατεσκευασμένος
@@ -96,7 +96,7 @@
 - Translation:
 - Summary:
 
-## Comment 4
+### Comment 4
 - Image: [link](images/1_2_6_Comment_4.jpg)
 - Manuscript Citation: 84 [34] (https://www.e-rara.ch/zut/content/pageview/10527248), note No. 4
 - Lemma: οἱ περὶ Κάδμον, καὶ Φερεκύδην
@@ -104,7 +104,7 @@
 - Translation:
 - Summary:
 
-## Comment 5
+### Comment 5
 - Image: [link](images/1_2_6_Comment_5.jpg)
 - Manuscript Citation: 84 [34] (https://www.e-rara.ch/zut/content/pageview/10527248), note No. 5
 - Lemma: ἀφαιροῦντες ἀεί τι τῶν τοιούτων
@@ -112,7 +112,7 @@
 - Translation:
 - Summary:
 
-## Comment 6
+### Comment 6
 - Image: [link](images/1_2_6_Comment_6.jpg)
 - Manuscript Citation: 84 [34] (https://www.e-rara.ch/zut/content/pageview/10527248), note No. 6
 - Lemma:
@@ -120,7 +120,7 @@
 - Translation:
 - Summary:
 
-## Comment 7
+### Comment 7
 - Image: [link](images/1_2_6_Comment_7.jpg)
 - Manuscript Citation: 84 [34] (https://www.e-rara.ch/zut/content/pageview/10527248), note No. 7
 - Lemma:
@@ -128,7 +128,7 @@
 - Translation:
 - Summary:
 
-## Comment 8
+### Comment 8
 - Image: [link](images/1_2_6_Comment_8.jpg)
 - Manuscript Citation: 84 [34] (https://www.e-rara.ch/zut/content/pageview/10527248), note No. 8
 - Lemma:
@@ -136,7 +136,7 @@
 - Translation:
 - Summary:
 
-## Comment 9
+### Comment 9
 - Image: [link](images/1_2_6_Comment_9.jpg)
 - Manuscript Citation: 84 [34] (https://www.e-rara.ch/zut/content/pageview/10527248), note No. 9
 - Lemma:
@@ -144,7 +144,7 @@
 - Translation:
 - Summary:
 
-## Comment 10
+### Comment 10
 - Image: [link](images/1_2_6_Comment_10.jpg)
 - Manuscript Citation: 85 [35] (https://www.e-rara.ch/zut/content/pageview/10527249), note No. 1
 - Lemma:
@@ -152,9 +152,9 @@
 - Translation:
 - Summary:
 
-# 4. Commentary on 10.3.9
+## 4. Commentary on 10.3.9
 
-## Comment 1
+### Comment 1
 - Image: [link](images/10_3_9_Comment_1.jpg)
 - Manuscript Citation: 45 [717] (https://www.e-rara.ch/zut/content/pageview/10527945), note No. 1
 - Lemma:
@@ -162,7 +162,7 @@
 - Translation:
 - Summary:
 
-## Comment 2
+### Comment 2
 - Image: [link](images/10_3_9_Comment_2.jpg)
 - Manuscript Citation: 45 [717] (https://www.e-rara.ch/zut/content/pageview/10527945), note No. 2
 - Lemma:
@@ -170,9 +170,9 @@
 - Translation:
 - Summary:
 
-# 5. Commentary on 10.3.10
+## 5. Commentary on 10.3.10
 
-## Comment 1
+### Comment 1
 - Image: [link](images/10_3_10_Comment_1.jpg)
 - Manuscript Citation: 45 [717] (https://www.e-rara.ch/zut/content/pageview/10527945), note No. 3
 - Lemma:
@@ -180,7 +180,7 @@
 - Translation:
 - Summary:
 
-## Comment 2
+### Comment 2
 - Image: [link](images/10_3_10_Comment_2.jpg)
 - Manuscript Citation: 45 [717] (https://www.e-rara.ch/zut/content/pageview/10527945), note No. 4
 - Lemma:
@@ -188,7 +188,7 @@
 - Translation:
 - Summary:
 
-## Comment 3
+### Comment 3
 - Image: [link](images/10_3_10_Comment_3.jpg)
 - Manuscript Citation: 45 [717] (https://www.e-rara.ch/zut/content/pageview/10527945), note No. 5
 - Lemma:
