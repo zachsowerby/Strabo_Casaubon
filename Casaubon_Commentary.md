@@ -86,7 +86,7 @@
 - Lemma: Αρα γὰρ οὐδ᾽ ὁ λόγος
 - Text: λόγον hic vocat, quam modo φράσιν appellabat. An (inquit) dicet Eratosthenes, vel nullum esse commune genus, quo comprehendantur legibus adstricta, et soluta oratio? An hoc quidem non dicet, sed negabit orationem in generis significatione acceptam ad rhetoricam pertinere; Λογον, φράσιν, ἀρετὴν λόγου, pro eodem ponit.
 - Translation:
-- Summary: Casaubon is commenting on the word use of λόγος, questioning how it appears interchangeable with the word φράσις here.
+- Summary: Casaubon is confused as to why Strabo/Eratosthenes chooses to use the word λόγος here, where according to the logic of the argument so far, in his opinion, Strabo/Eratosthenes should have used the word φράσις.
 
 ### Comment 3
 - Image: [link](images/1_2_6_Comment_3.jpg)
@@ -150,7 +150,7 @@
 - Lemma: καὶ ἐπὶ θάτερον ἡ κατάχρησις διέβη
 - Text: Κατάχρησιν vocat quae e Graecis interpretibus μετάληψις vocitatur. Φράζει et φράσις de elocutione quacunque proprie dicuntur. Cum autem ita contigerit, ut qui primi arte φράζειν coeperunt, ii poëtae essent, de iisdem primum et φράζειν dicebatur et ἀέιδειν: illud propter elocutionem: hoc propter metrum. Sed cum postea etiam oratorum esset exortum genus, tunc de iis, primum quidem φράζειν propter arte elaboratam elocutionem usurpatum est, deinde vero etiam ἀέιδειν paulatim de iisdem dici coepit: per κατάχρησιν inquit, et errorem. Nam quia de poëtis dicebatur φράζειν, de quibus et ἀέιδειν: communicata altera voce oratoribus, altera quoque, quae propria erat poetis, cepta est communicari. Simillima ratione cum γλήνη et κόρη de eodem dicerentur, nempe de pupilla oculi, quia κόρη translata significatione de ignavo homine dici solebat, poeta eodem sensu etiam voce γλήνη est usus.[et simili quoque ratione γέροντας ille legatos vocat Ιλιαδ, ί.] Sic ἐθόωσα, pro ἀπώξυνα, Οδυσσ. ι 327. ubi notat scholiastes, ἐκ τοῦ συνωνύμου τὸ ὁμώνυμον. ὁ τρόπος μετάληψις. Vide Plutarchum, et poetae interpretes ad illum locum (ιλ.α.v.189.) — ἐν δέ οἱ ἦτορ / Στηθεσσὶν λασίοισι. Casaub.
 - Translation:
-- Summary:
+- Summary: Casaubon explains the κατάχρησις to which Strabo is referring in detail (a meaning the reader may be more accustomed to seeing represented with the term μετάληψις). That is, when there were only poets who engaged in prose and poetry, φράζειν referred to prose, and ἀέιδειν to poetry; when orators came onto the scene speaking especially florid prose, φράζειν was used to refer to their prose. The κατάχρησις, or misapplication, comes when ἀέιδειν is also used to refer to the prose speech of orators a little while later. The mistake is apparently made by those who do not understand that the two terms referred to types of composition with more substantive differences than the fact that they were created by someone with the ability to speak well. Casaubon brings up other examples of κατάχρησις and notes that it is used in poetic speech (with citations to the Iliad and Odyssey), and quotes a scholion on one of those passages: "From the synonym comes the homonym; this way of doing things is μετάληψις." Casaubon cites his own example of μετάληψις from the Iliad or Odyssey(?).
 
 ## 4. Commentary on 10.3.9
 
