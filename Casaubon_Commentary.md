@@ -167,33 +167,33 @@
 ### Comment 2
 - Image: [link](images/10_3_9_Comment_2.jpg)
 - Manuscript Citation: [Volume II, page 45](https://www.e-rara.ch/zut/content/pageview/10527945), note No. 2
-- Lemma:
-- Text:
+- Lemma: Μὴ γὰρ εἴ τις
+- Text: Ingreditur in defensionem et commendationem Musicae: quo de argumento plura legat qui volet apud Plutarchum περὶ Μουσικῆς et Athenaeum lib.XIV. Idem.
 - Translation:
-- Summary:
+- Summary: Casaubon directs any reader who wants to read more about the defense and praise of music, such as Strabo here begins, to Plutarch's περὶ Μουσικῆς and to Athenaeus.
 
 ## 5. Commentary on 10.3.10
 
 ### Comment 1
 - Image: [link](images/10_3_10_Comment_1.jpg)
 - Manuscript Citation: [Volume II, page 45](https://www.e-rara.ch/zut/content/pageview/10527945), note No. 3
-- Lemma:
-- Text:
+- Lemma: Οὕτω δὲ καὶ τὴν τῶν ἐθῶν
+- Text: Erat hic locus foede corruptus linearum aliquot transpositione. Nos lectionem antiquam et veram in integrum restituimus, secuti manuscriptos. Idem.
 - Translation:
-- Summary:
+- Summary: Casaubon says that this part of the text was dreadfully corrupted by the transposition of some number of lines, but that he has restored the original and authentic reading in whole by following the manuscripts. (NB: The lemma does not match the text.)
 
 ### Comment 2
 - Image: [link](images/10_3_10_Comment_2.jpg)
 - Manuscript Citation: [Volume II, page 45](https://www.e-rara.ch/zut/content/pageview/10527945), note No. 4
-- Lemma:
-- Text:
+- Lemma: Δενδροφορίαι τε
+- Text: cujusmodi apud Athenienses fuere τὰ ὠσχοφόρια, ut est apud Plutarchum in Theseo, et Grammaticos. Idem.
 - Translation:
-- Summary:
+- Summary: Casaubon notes that, according to Plutarch in the Life of Theseus, and according to the grammarians, the Athenians also had τὰ ὠσχοφόρια, or a rite in which grape vines were carried about.
 
 ### Comment 3
 - Image: [link](images/10_3_10_Comment_3.jpg)
 - Manuscript Citation: [Volume II, page 45](https://www.e-rara.ch/zut/content/pageview/10527945), note No. 5
-- Lemma:
-- Text:
+- Lemma: πρόσπολοι δὲ τῶν Μουσῶν
+- Text: Lectio vetus πρόπολοι, quod alio confirmant Epitomae.
 - Translation:
-- Summary:
+- Summary: The older reading for πρόσπολοι is πρόπολοι, which is otherwise confirmed by the Epitomes.
