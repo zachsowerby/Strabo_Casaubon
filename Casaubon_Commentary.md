@@ -86,7 +86,7 @@
 - Lemma: Αρα γὰρ οὐδ᾽ ὁ λόγος
 - Text: λόγον hic vocat, quam modo φράσιν appellabat. An (inquit) dicet Eratosthenes, vel nullum esse commune genus, quo comprehendantur legibus adstricta, et soluta oratio? An hoc quidem non dicet, sed negabit orationem in generis significatione acceptam ad rhetoricam pertinere; Λογον, φράσιν, ἀρετὴν λόγου, pro eodem ponit.
 - Translation:
-- Summary: Casaubon is commenting on the word use of λόγος, questioning how it appears interchangeable with the word φράσις here. (Somewhat of a debatable point in my opinion.)
+- Summary: Casaubon is commenting on the word use of λόγος, questioning how it appears interchangeable with the word φράσις here. (Somewhat of a debatable point in my opinion, but important to understand the point Strabo is trying to make.)
 
 ### Comment 3
 - Image: [link](images/1_2_6_Comment_3.jpg)
@@ -131,36 +131,38 @@
 ### Comment 8
 - Image: [link](images/1_2_6_Comment_8.jpg)
 - Manuscript Citation: [Volume I, page 84](https://www.e-rara.ch/zut/content/pageview/10527248), note No. 8
-- Lemma:
-- Text:
+- Lemma: Cum se ostentaret.
+- Text: Κατὰ τὰς ἐπιδείξεις, cum in publicum prodiret poëta, et carmen suum recitaret. notus est hujus vocis usus ex scriptoribus Graecis, interpres totum hunc locum ita convertit, sicuti et pleraque alia, ut mirum sit si quis ex ipsius verbis aliquid sententiae elicere potuerit, quod Strabonianum gustum prabeat. Quod ad Cadmum Phoenicem attinet, nota sunt quae de eo passim feruntur. sed adscribenda duxi Plinii verba, ut locus fieret illustrior. De poëmatum, inquit, origine magna quaestio est. ante Troianum bellum probantur fuisse. Prorsam orationem condere Pherecydes Syrus instituit, tempore Cyri regis. Historiam Cadmus Milesius. Haec ille lib. septimo capite LVI. ex quibus liquet,  non de litterarum inventore Cadmo, sed alio quodam auctorem loqui. cujus eodem meminit eulogio, libro quinto, capite 29. de Mileto Joniae urbe scribens. Hecataeus porro princeps Geographiam scribere aggressus est, ut supra indicavit Strabo. De raposodia vide quae annotavimus in Plutarchomericis. Xyland.
 - Translation:
-- Summary:
+- Summary: As this is lengthy, I will come back to it. NB: This note is not by Casaubon.
 
 ### Comment 9
 - Image: [link](images/1_2_6_Comment_9.jpg)
 - Manuscript Citation: [Volume I, page 84](https://www.e-rara.ch/zut/content/pageview/10527248), note No. 9
-- Lemma:
-- Text:
+- Lemma: τὸ ᾄδειν αὐτοῖς τὸ αὐτὸ
+- Text: Vox αὐτοῖς quid hic significet, quum sequatur, παρ᾽ ἐκείνοις non video. Itaque tollendam censeo. Casaub.
 - Translation:
-- Summary:
+- Summary: Casaubon thinks the text would make more sense without the word αὐτοῖς.
 
 ### Comment 10
 - Image: [link](images/1_2_6_Comment_10.jpg)
 - Manuscript Citation: [Volume I, page 85](https://www.e-rara.ch/zut/content/pageview/10527249), note No. 1
-- Lemma:
-- Text:
+- Lemma: καὶ ἐπὶ θάτερον ἡ κατάχρησις διέβη
+- Text: Κατάχρησιν vocat quae e Graecis interpretibus μετάληψις vocitatur. Φράζει et φράσις de elocutione quacunque proprie dicuntur. Cum autem ita contigerit, ut qui primi arte φράζειν coeperunt, ii poëtae essent, de iisdem primum et φράζειν dicebatur et ἀέιδειν: illud propter elocutionem: hoc propter metrum. Sed cum postea etiam oratorum esset exortum genus, tunc de iis, primum quidem φράζειν propter arte elaboratam elocutionem usurpatum est, deinde vero etiam ἀέιδειν paulatim de iisdem dici coepit: per κατάχρησιν inquit, et errorem. Nam quia de poëtis dicebatur φράζειν, de quibus et ἀέιδειν: communicata altera voce oratoribus, altera quoque, quae propria erat poetis, cepta est communicari. Simillima ratione cum γλήνη et κόρη de eodem dicerentur, nempe de pupilla oculi, quia κόρη translata significatione de ignavo homine dici solebat, poeta eodem sensu etiam voce γλήνη est usus.[et simili quoque ratione γέροντας ille legatos vocat Ιλιαδ, ί.] Sic ἐθόωσα, pro ἀπώξυνα, Οδυσσ. ι 327. ubi notat scholiastes, ἐκ τοῦ συνωνύμου τὸ ὁμώνυμον. ὁ τρόπος μετάληψις. Vide Plutarchum, et poetae interpretes ad illum locum (ιλ.α.v.189.)
+                      — ἐν δέ οἱ ἦτορ
+                    Στηθεσσὶν λασίοισι. Casaub.
 - Translation:
-- Summary:
+- Summary: Another sizable one, I'll come back to it.
 
 ## 4. Commentary on 10.3.9 (In Volume II)
 
 ### Comment 1
 - Image: [link](images/10_3_9_Comment_1.jpg)
 - Manuscript Citation: [Volume II, page 45](https://www.e-rara.ch/zut/content/pageview/10527945), note No. 1
-- Lemma:
-- Text:
+- Lemma: εὖ μὲν γὰρ εἴρηται
+- Text: Ex sententia Pythagorae relata ab Aeliano libro duodecimo cap. 59. duo sunt quae ab homine praestita Deo immortali eum assimilant, τὸ ἀληθεύειν et τὸ εὐεργετεῖν: quae sane ἀπόφανσις haud paullo melio est et elegantior tota ista disputatione Strabonis nostri: hoc est, hominis Stoicae sectae dediti, quae quid ab Epicuri dogmate differat, est ubi non facile dignoscas. Pertinet huc proverbium, homo homini Deus. (Vide Ciceronis orat. pro Ligario in fine.) Casaub.
 - Translation:
-- Summary:
+- Summary: Casaubon rejects Strabo's entire discourse on what activities bring humans closer to the divine, in favor of what he considers a much better and more elegant theory by Pythagoras, as preserved by Aelian.
 
 ### Comment 2
 - Image: [link](images/10_3_9_Comment_2.jpg)
