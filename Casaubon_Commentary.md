@@ -154,7 +154,7 @@
 - Translation:
 - Summary: Another sizable one, I'll come back to it.
 
-## 4. Commentary on 10.3.9 (In Volume II)
+## 4. Commentary on 10.3.9
 
 ### Comment 1
 - Image: [link](images/10_3_9_Comment_1.jpg)
@@ -170,7 +170,7 @@
 - Lemma: Μὴ γὰρ εἴ τις
 - Text: Ingreditur in defensionem et commendationem Musicae: quo de argumento plura legat qui volet apud Plutarchum περὶ Μουσικῆς et Athenaeum lib.XIV. Idem.
 - Translation:
-- Summary: Casaubon directs any reader who wants to read more about the defense and praise of music, such as Strabo here begins, to Plutarch's περὶ Μουσικῆς and to Athenaeus.
+- Summary: Casaubon directs any reader who wants to read more about the defense and praise of music, such as Strabo here undertakes, to Plutarch's περὶ Μουσικῆς and to Athenaeus.
 
 ## 5. Commentary on 10.3.10
 
