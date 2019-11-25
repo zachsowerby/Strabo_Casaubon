@@ -158,7 +158,7 @@
 - Image: [link](images/10_3_9_Comment_1.jpg)
 - Manuscript Citation: [Volume II, page 45](https://www.e-rara.ch/zut/content/pageview/10527945), note No. 1
 - Lemma: εὖ μὲν γὰρ εἴρηται
-- Text: Ex sententia Pythagorae relata ab Aeliano libro duodecimo cap. 59. duo sunt quae ab homine praestita Deo immortali eum assimilant, τὸ ἀληθεύειν et τὸ εὐεργετεῖν: quae sane ἀπόφανσις haud paullo melio est et elegantior tota ista disputatione Strabonis nostri: hoc est, hominis Stoicae sectae dediti, quae quid ab Epicuri dogmate differat, est ubi non facile dignoscas. Pertinet huc proverbium, homo homini Deus. (Vide Ciceronis orat. pro Ligario in fine.) Casaub.
+- Text: Ex sententia Pythagorae relata ab Aeliano libro duodecimo cap. 59. duo sunt quae ab homine praestita Deo immortali eum assimilant, τὸ ἀληθεύειν et τὸ εὐεργετεῖν: quae sane ἀπόφανσις haud paullo melior est et elegantior tota ista disputatione Strabonis nostri: hoc est, hominis Stoicae sectae dediti, quae quid ab Epicuri dogmate differat, est ubi non facile dignoscas. Pertinet huc proverbium, homo homini Deus. (Vide Ciceronis orat. pro Ligario in fine.) Casaub.
 - Translation:
 - Summary: Casaubon rejects Strabo's entire discourse on what activities bring humans closer to the divine, in favor of what he considers a much better and more elegant theory by Pythagoras, as preserved by Aelian.
 
